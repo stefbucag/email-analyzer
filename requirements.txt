@@ -1,0 +1,6 @@
+nltk==3.4
+pandas==0.24.1
+pep8==1.7.1
+pip==9.0.1
+pip-tools==3.4.0
+textblob==0.15.3
